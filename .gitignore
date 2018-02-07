@@ -4,3 +4,12 @@
 _notes/
 /bower_components/
 /node_modules/
+/cgi-bin/
+config.core.php
+/core/
+error_log
+ht.access
+index.php
+/manager/
+robots.txt
+unpack.php
